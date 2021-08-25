@@ -20,7 +20,7 @@ class Contact extends Component {
               >
                 <img
                   src="https://cdn4.iconfinder.com/data/icons/miu-square-gloss-social/60/github-square-gloss-social-media-512.png"
-                  alt="Gmail logo"
+                  alt="GitHub logo"
                   width="48px"
                   height="48px"
                 />
@@ -45,7 +45,7 @@ class Contact extends Component {
               >
                 <img
                   src="https://image.flaticon.com/icons/png/512/174/174857.png"
-                  alt="Gmail logo"
+                  alt="LinkedIn logo"
                   width="48px"
                   height="48px"
                   id="linkedin-logo"
