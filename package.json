@@ -2,7 +2,7 @@
   "name": "meu-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://MatheusMartino97.github.io/portfolio/",
+  "homepage": "https://matheus-martino-do-amaral.github.io/portfolio_front-end/",
   "dependencies": {
     "@icons-pack/react-simple-icons": "^4.4.0",
     "@material-ui/icons": "^4.11.2",
